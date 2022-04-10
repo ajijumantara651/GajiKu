@@ -1,0 +1,4 @@
+#Sun Apr 10 21:22:19 ICT 2022
+base.0=D\:\\training_flutter\\GajiKu\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
